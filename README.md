@@ -7,4 +7,4 @@ The input data:
 ![本地图片描述](images/fig2.png)
 
 The training algorithm:
-![本地图片描述](images/fig.png)
+![本地图片描述](images/fig1.png)
