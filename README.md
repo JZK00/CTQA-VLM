@@ -8,3 +8,8 @@ The input data:
 
 The training algorithm:
 ![本地图片描述](images/fig1.png)
+
+## Citation
+
+If you find CTQA-VLM useful for your research, please consider citing our work. 
+The citation information will be updated upon publication.
